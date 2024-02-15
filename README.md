@@ -30,4 +30,4 @@
 Хеш-таблиці є потужним інструментом для швидкого доступу до даних за ключами, вони використовуються в багатьох галузях і забезпечують високу ефективність і швидкість виконання.
 
 ## Демо
-[https://hash-tables.netlify.app/](https://hash-tables.netlify.app/)https://hash-tables.netlify.app/
+https://hash-tables.netlify.app/

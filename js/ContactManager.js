@@ -1,4 +1,4 @@
-import EnhancedHashTable from "./EnhancedHashTable";
+import EnhancedHashTable from "./EnhancedHashTable.js";
 
 class ContactManager {
     constructor(){
